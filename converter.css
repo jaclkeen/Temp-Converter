@@ -1,0 +1,22 @@
+body {
+  font-size: 2em;
+}
+
+body.container {
+  margin: auto;
+}
+
+.hot{
+  background-color: red;
+  color: white;
+}
+
+.cold {
+  background-color: blue;
+  color: white;
+}
+
+.normal {
+  background-color: green;
+  color: white;
+}
